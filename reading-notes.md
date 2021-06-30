@@ -3,8 +3,8 @@
 **here we write what we understand from reading material ,there is going to be a file for each class every day.**
 
 ## Code 102 - Intro to Software Development.
-         classes         |      links
------------------------- | ---------------------------------------------------------------------
+         classes| nks
+------------------------ | -----------
 read-01|[reading-note01] | (https://mamoun-kamal-alshisani.github.io/read-notes/)
 read-02|[reading-note02] | (https://mamoun-kamal-alshisani.github.io/read-notes/read02)
 read-03|[reading-note03] | (https://mamoun-kamal-alshisani.github.io/read-notes/readme-03)
