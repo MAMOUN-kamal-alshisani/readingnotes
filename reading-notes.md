@@ -18,7 +18,7 @@ class-08|[reading-note02](https://mamoun-kamal-alshisani.github.io/read-notes/gi
 ## Code 201 - Foundations of Software Development.
 
 | classes               |  links|
-|:------------------------:|:--------------------------------------------------------:|
+|------------------------:|:--------------------------------------------------------|
 class-01|[read-note-01](https://mamoun-kamal-alshisani.github.io/code-201/read01)       |
 class-02|[read-note-02](https://mamoun-kamal-alshisani.github.io/code-201/class-02)     | 
 class-03|[read-note-01](https://mamoun-kamal-alshisani.github.io/code-201/reading-note-03)|
