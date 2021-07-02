@@ -34,24 +34,6 @@ class-012|[read-note-01](https://mamoun-kamal-alshisani.github.io/code-201/read-
 class-013|[read-note-01](https://mamoun-kamal-alshisani.github.io/code-201/read-13)|
 class-014|[read-note-01](https://mamoun-kamal-alshisani.github.io/code-201/read-14)|
 
-
-| classes                       |  links|
-|------------------------:|:--------------------------------------------------------|
-class-01|[read-note-01](https://mamoun-kamal-alshisani.github.io/code-201/read01)       |
-class-02|[read-note-02](https://mamoun-kamal-alshisani.github.io/code-201/class-02)     | 
-class-03|[read-note-01](https://mamoun-kamal-alshisani.github.io/code-201/reading-note-03)|
-class-04|[read-note-01](https://mamoun-kamal-alshisani.github.io/code-201/read-note-04)|
-class-05|[read-note-01](https://mamoun-kamal-alshisani.github.io/code-201/Read:05)|
-class-06|[read-note-01](https://mamoun-kamal-alshisani.github.io/code-201/Read-06)|
-class-07|[read-note-01](https://mamoun-kamal-alshisani.github.io/code-201/readme-07)|
-class-08|[read-note-01](https://mamoun-kamal-alshisani.github.io/code-201/Read-08)|
-class-09|[read-note-01](https://mamoun-kamal-alshisani.github.io/code-201/read-09)|
-class-010|[read-note-01](https://mamoun-kamal-alshisani.github.io/code-201/Read:-10)|
-class-011|[read-note-01](https://mamoun-kamal-alshisani.github.io/code-201/read-11)|
-class-012|[read-note-01](https://mamoun-kamal-alshisani.github.io/code-201/read-12)|
-class-013|[read-note-01](https://mamoun-kamal-alshisani.github.io/code-201/read-13)|
-class-014|[read-note-01](https://mamoun-kamal-alshisani.github.io/code-201/read-14)|
-
 ## Code 301 - Intermediate Software Development.
 
 | links                   |  links|
