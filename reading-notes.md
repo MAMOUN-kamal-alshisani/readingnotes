@@ -5,7 +5,7 @@
 ## Code 102 - Intro to Software Development.
 
 | classes                       |  links|
-|:------------------------|--------------------------------------------------------:|
+|------------------------:|:--------------------------------------------------------|
 class-01|[reading-note01](https://mamoun-kamal-alshisani.github.io/read-notes/)|
 class-02|[reading-note02](https://mamoun-kamal-alshisani.github.io/read-notes/read02)|
 class-03|[reading-note03](https://mamoun-kamal-alshisani.github.io/read-notes/readme-03)|
@@ -17,8 +17,8 @@ class-08|[reading-note02](https://mamoun-kamal-alshisani.github.io/read-notes/gi
 
 ## Code 201 - Foundations of Software Development.
 
-:| classes               :        |  links|:
-|:------------------------|--------------------------------------------------------:|
+| classes               |  links|
+|:------------------------:|:--------------------------------------------------------:|
 class-01|[read-note-01](https://mamoun-kamal-alshisani.github.io/code-201/read01)       |
 class-02|[read-note-02](https://mamoun-kamal-alshisani.github.io/code-201/class-02)     | 
 class-03|[read-note-01](https://mamoun-kamal-alshisani.github.io/code-201/reading-note-03)|
@@ -36,7 +36,7 @@ class-014|[read-note-01](https://mamoun-kamal-alshisani.github.io/code-201/read-
 
 
 | classes                       |  links|
-|:------------------------|--------------------------------------------------------:|
+|------------------------:|:--------------------------------------------------------|
 class-01|[read-note-01](https://mamoun-kamal-alshisani.github.io/code-201/read01)       |
 class-02|[read-note-02](https://mamoun-kamal-alshisani.github.io/code-201/class-02)     | 
 class-03|[read-note-01](https://mamoun-kamal-alshisani.github.io/code-201/reading-note-03)|
@@ -55,7 +55,7 @@ class-014|[read-note-01](https://mamoun-kamal-alshisani.github.io/code-201/read-
 ## Code 301 - Intermediate Software Development.
 
 | links                   |  links|
-|------------------------|--------------------------------------------------------:|
+|------------------------:|:--------------------------------------------------------|
 class-01|[class-01](https://mamoun-kamal-alshisani.github.io/reading-note-301/class-01)|
 class-02|[class-02](https://mamoun-kamal-alshisani.github.io/reading-note-301/class-02)|
 class-03|[class-03](https://mamoun-kamal-alshisani.github.io/reading-note-301/class-03)|
