@@ -5,7 +5,7 @@
 ## Code 102 - Intro to Software Development.
 
 | classes                       |  links|
-|------------------------|--------------------------------------------------------:|
+|:------------------------|--------------------------------------------------------:|
 class-01|[reading-note01](https://mamoun-kamal-alshisani.github.io/read-notes/)|
 class-02|[reading-note02](https://mamoun-kamal-alshisani.github.io/read-notes/read02)|
 class-03|[reading-note03](https://mamoun-kamal-alshisani.github.io/read-notes/readme-03)|
@@ -18,7 +18,7 @@ class-08|[reading-note02](https://mamoun-kamal-alshisani.github.io/read-notes/gi
 ## Code 201 - Foundations of Software Development.
 
 :| classes               :        |  links|:
-|------------------------|--------------------------------------------------------:|
+|:------------------------|--------------------------------------------------------:|
 class-01|[read-note-01](https://mamoun-kamal-alshisani.github.io/code-201/read01)       |
 class-02|[read-note-02](https://mamoun-kamal-alshisani.github.io/code-201/class-02)     | 
 class-03|[read-note-01](https://mamoun-kamal-alshisani.github.io/code-201/reading-note-03)|
@@ -36,7 +36,7 @@ class-014|[read-note-01](https://mamoun-kamal-alshisani.github.io/code-201/read-
 
 
 | classes                       |  links|
-|------------------------|--------------------------------------------------------:|
+|:------------------------|--------------------------------------------------------:|
 class-01|[read-note-01](https://mamoun-kamal-alshisani.github.io/code-201/read01)       |
 class-02|[read-note-02](https://mamoun-kamal-alshisani.github.io/code-201/class-02)     | 
 class-03|[read-note-01](https://mamoun-kamal-alshisani.github.io/code-201/reading-note-03)|
@@ -56,20 +56,20 @@ class-014|[read-note-01](https://mamoun-kamal-alshisani.github.io/code-201/read-
 
 | links                   |  links|
 |------------------------|--------------------------------------------------------:|
-class-01|[class-01]|(https://mamoun-kamal-alshisani.github.io/reading-note-301/class-01)|
-class-02|[class-02]|(https://mamoun-kamal-alshisani.github.io/reading-note-301/class-02)|
-class-03|[class-03]|(https://mamoun-kamal-alshisani.github.io/reading-note-301/class-03)|
-class-04|[class-04]|(https://mamoun-kamal-alshisani.github.io/reading-note-301/class-044)|
-class-05|[class-05]|(https://mamoun-kamal-alshisani.github.io/reading-note-301/class-05)|
-|[link]()|
-|[link]()|
-|[link]()|
-|[link]()|
-|[link]()|
-|[link]()|
-|[link]()|
-|[link]()|
-|[link]()|
+class-01|[class-01](https://mamoun-kamal-alshisani.github.io/reading-note-301/class-01)|
+class-02|[class-02](https://mamoun-kamal-alshisani.github.io/reading-note-301/class-02)|
+class-03|[class-03](https://mamoun-kamal-alshisani.github.io/reading-note-301/class-03)|
+class-04|[class-04](https://mamoun-kamal-alshisani.github.io/reading-note-301/class-044)|
+class-05|[class-05](https://mamoun-kamal-alshisani.github.io/reading-note-301/class-05)|
+class-06|[link]()|
+class-07|[link]()|
+class-08|[link]()|
+class-09|[link]()|
+class-010|[link]()|
+class-011|[link]()|
+class-012|[link]()|
+class-013|[link]()|
+class-014|[link]()|
 
 ## Code 401 - Advanced Software Development.
 
