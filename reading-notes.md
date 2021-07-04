@@ -41,10 +41,10 @@ class-014|[read-note-01](https://mamoun-kamal-alshisani.github.io/code-201/read-
 class-01|[class-01](https://mamoun-kamal-alshisani.github.io/reading-note-301/class-01)|
 class-02|[class-02](https://mamoun-kamal-alshisani.github.io/reading-note-301/class-02)|
 class-03|[class-03](https://mamoun-kamal-alshisani.github.io/reading-note-301/class-03)|
-class-04|[class-04](https://mamoun-kamal-alshisani.github.io/reading-note-301/class-044)|
+class-04|[class-04](https://mamoun-kamal-alshisani.github.io/reading-note-301/class-04)|
 class-05|[class-05](https://mamoun-kamal-alshisani.github.io/reading-note-301/class-05)|
-class-06|[link]()|
-class-07|[link]()|
+class-06|[class-06](https://mamoun-kamal-alshisani.github.io/reading-note-301/class-06)|
+class-07|[class-07](https://mamoun-kamal-alshisani.github.io/reading-note-301/class-07)|
 class-08|[link]()|
 class-09|[link]()|
 class-010|[link]()|
