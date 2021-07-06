@@ -46,7 +46,7 @@ class-05|[class-05](https://mamoun-kamal-alshisani.github.io/reading-note-301/cl
 class-06|[class-06](https://mamoun-kamal-alshisani.github.io/reading-note-301/class-06)|
 class-07|[class-07](https://mamoun-kamal-alshisani.github.io/reading-note-301/class-07)|
 class-08|[class-08](https://mamoun-kamal-alshisani.github.io/reading-note-301/class-08)|
-class-09|[link]()|
+class-09|[class-09](https://mamoun-kamal-alshisani.github.io/reading-note-301/class-09)|
 class-010|[link]()|
 class-011|[link]()|
 class-012|[link]()|
