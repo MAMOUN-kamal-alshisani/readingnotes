@@ -50,7 +50,7 @@ class-09|[class-09](https://mamoun-kamal-alshisani.github.io/reading-note-301/cl
 class-010|[class-10](https://mamoun-kamal-alshisani.github.io/reading-note-301/class-10)|
 class-011|[class-11](https://mamoun-kamal-alshisani.github.io/reading-note-301/class-11)|
 class-012|[class-12](https://mamoun-kamal-alshisani.github.io/reading-note-301/class-12)|
-class-013|[link]()|
+class-013|[class-13](https://mamoun-kamal-alshisani.github.io/reading-note-301/class-13)|
 class-12|[]()|
 
 ## Code 401 - Advanced Software Development.
