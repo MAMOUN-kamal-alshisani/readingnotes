@@ -58,3 +58,4 @@ class-14|[class-14](https://mamoun-kamal-alshisani.github.io/reading-note-301/cl
 | classes                       |  links|
 |------------------------|--------------------------------------------------------:|
 class-01|[class-01](https://mamoun-kamal-alshisani.github.io/401-reading-notes/class-01)|
+class-02|[class-02](https://mamoun-kamal-alshisani.github.io/401-reading-notes/class-02)|
