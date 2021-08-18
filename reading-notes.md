@@ -62,3 +62,5 @@
 |class-03|[class-03](https://mamoun-kamal-alshisani.github.io/401-reading-notes/class-03)|
 |class-04|[class-04](https://mamoun-kamal-alshisani.github.io/401-reading-notes/class-04)|
 |class-05|[class-05](https://mamoun-kamal-alshisani.github.io/401-reading-notes/class-05)|
+
+https://mamoun-kamal-alshisani.github.io/readingnotes/reading-notes
