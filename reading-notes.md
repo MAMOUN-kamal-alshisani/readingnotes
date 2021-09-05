@@ -73,5 +73,6 @@
 |class-14|[class-14](https://mamoun-kamal-alshisani.github.io/401-reading-notes/class-14)|
 |class-15|[class-15](https://mamoun-kamal-alshisani.github.io/401-reading-notes/class-15)|
 |class-16|[class-16](https://mamoun-kamal-alshisani.github.io/401-reading-notes/class-16)|
+|class-17|[class-17](https://mamoun-kamal-alshisani.github.io/401-reading-notes/class-17)|
 
 https://mamoun-kamal-alshisani.github.io/readingnotes/reading-notes
