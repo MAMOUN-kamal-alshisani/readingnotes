@@ -80,5 +80,6 @@
 |class-27|[class-27](https://mamoun-kamal-alshisani.github.io/401-reading-notes/class-27)|
 |class-28|[class-28](https://mamoun-kamal-alshisani.github.io/401-reading-notes/class-28)|
 |class-29|[class-29](https://mamoun-kamal-alshisani.github.io/401-reading-notes/class-29)|
+|class-30|[class-30](https://mamoun-kamal-alshisani.github.io/401-reading-notes/class-30)|
 
 https://mamoun-kamal-alshisani.github.io/readingnotes/reading-notes
