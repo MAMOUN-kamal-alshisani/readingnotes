@@ -90,8 +90,6 @@
 |class-37|[class-37](https://mamoun-kamal-alshisani.github.io/401-reading-notes/class-37)|
 |class-38|[class-38](https://mamoun-kamal-alshisani.github.io/401-reading-notes/class-38)|
 |class-39|[class-39](https://mamoun-kamal-alshisani.github.io/401-reading-notes/class-39)|
-
-
 |class-43|[class-43](https://mamoun-kamal-alshisani.github.io/401-reading-notes/class-43)|
 
 
